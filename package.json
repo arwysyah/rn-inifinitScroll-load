@@ -1,0 +1,28 @@
+{
+  "name": "rn-inifinitscroll-load",
+  "version": "1.0.1",
+  "description": "this package will be loading automatically based on limit that you set",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arwysyah/rn-inifinitScroll-load.git"
+  },
+  "keywords": [
+    "react-native",
+    "infinite",
+    "scroll",
+    "loading",
+    "loadmore",
+    "component",
+    "javascript"
+  ],
+  "author": "arwy syahputra siregar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arwysyah/rn-inifinitScroll-load/issues"
+  },
+  "homepage": "https://github.com/arwysyah/rn-inifinitScroll-load#readme"
+}
