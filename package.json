@@ -1,6 +1,6 @@
 {
   "name": "rn-inifinitscroll-load",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "this package will be loading automatically based on limit that you set",
   "main": "index.js",
   "scripts": {

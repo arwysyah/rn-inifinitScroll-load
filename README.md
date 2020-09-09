@@ -1,8 +1,5 @@
 # rn-inifinitScroll-load
 
-
-
-
 <p align="center">
   <a href="https://reactjs.org/">
     <img
@@ -17,17 +14,7 @@
 
 <br/>
 
-
-
 <br/>
-
-
-
-
-
-
-
-
 
 <p align="center">
  
@@ -40,11 +27,10 @@
   </a>
   <a href="https://github.com/prettier/prettier"><img src="https://img.shields.io/badge/styled_with-prettier-ff69b4.svg"></a>
 
- 
 </p>
 
-
 ## BUILD SETUP
+
 ```bash
 
 ## Installation
@@ -56,8 +42,8 @@ npm install rn-inifinitScroll-load --save
 
 ```
 
-
 ## USAGE
+
 ```js
 
 import InfiniteScroll from rn-inifinitScroll-load
@@ -212,32 +198,32 @@ booleanFunc = () => {
             limit={this.state.itemRender}
             newIncrease={this.state.increase}
           />
-      
+
         </View>
 
-       
+
         )
     }
 }
 ```
+
 <img src="screen.jpeg" alt="Girl in a jacket">
 
-
 ## Current API(Property)
-Property | Type | Description
------------- | ------------- | -------------
-renderItem | component | render component
-booleanFunc | PropTypes.function | update state item
-data| PropTypes.Array of Objct | item that will be rendering
-limit | PropTypes.number| amount of item will display first
-newIncrease | PropTypes.number| amount of item that increase
 
+| Property    | Type                     | Description                       |
+| ----------- | ------------------------ | --------------------------------- |
+| renderItem  | component                | render component                  |
+| booleanFunc | PropTypes.function       | update state item                 |
+| data        | PropTypes.Array of Objct | item that will be rendering       |
+| limit       | PropTypes.number         | amount of item will display first |
+| newIncrease | PropTypes.number         | amount of item that increase      |
 
-##  Project Documentation
+## Project Documentation
+
 <p align="center">
   <img src="assets/screen.gif" width=200 height=300/>
 </p>
-
 
 - Author Account
 
@@ -246,4 +232,5 @@ Arwy Syahputra Siregar
 github.com/arwysyah
 
 ```
+
 <p > Copyright ©</p> <p style="color:green;">by Arwy Syahputra Siregar</p>
