@@ -26,9 +26,9 @@
     <img title="Followers" src="https://img.shields.io/github/followers/arwysyah?style=social">
   </a>
   <a href="https://github.com/prettier/prettier"><img src="https://img.shields.io/badge/styled_with-prettier-ff69b4.svg"></a>
-https://www.npmjs.com/package/rn-inifinitscroll-load
-</p>
 
+</p>
+https://www.npmjs.com/package/rn-inifinitscroll-load
 ## BUILD SETUP
 
 ```bash
