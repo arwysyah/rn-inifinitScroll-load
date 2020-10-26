@@ -22,6 +22,9 @@
   <a href="#">
     <img title="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102">
   </a>
+  <a href="https://dev.to/arwysyah">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Arwy Syahputra Siregar's DEV Profile" height="30" width="30">
+</a>
   <a href="https://github.com/arwysyah?tab=followers">
     <img title="Followers" src="https://img.shields.io/github/followers/arwysyah?style=social">
   </a>
